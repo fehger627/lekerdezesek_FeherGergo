@@ -29,5 +29,5 @@ app.get("/", (req, res) => {
 
 
 app.listen(7172, () => {
-    console.log('A szerver a 8080 porton fut!')
+    console.log('A szerver a 7172 porton fut!')
 });
